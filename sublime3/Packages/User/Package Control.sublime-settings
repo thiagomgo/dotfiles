@@ -1,3 +1,24 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Base16 Color Schemes",
+		"Color Highlighter",
+		"DocBlockr",
+		"FileDiffs",
+		"Markdown Preview",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"SummitLinter",
+		"Theme - Cola",
+		"Theme - Hero",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
 }
